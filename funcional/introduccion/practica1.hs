@@ -19,7 +19,7 @@ tf2 y = y == "TRUE"
 -- AND - OR
 and1 a b = a && b
 or2 c d = c || d
--- COOMPARACION
+-- COMPARACION
 comp1 a b = a == b
 comp2 a b = a /= b
 -- NOT
