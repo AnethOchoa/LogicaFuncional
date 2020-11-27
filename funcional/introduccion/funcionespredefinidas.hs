@@ -1,0 +1,15 @@
+funcion1 x = abs x
+funcion2 x = ceiling x
+funcion3 y = succ y
+funcion4 x y = min x y
+funcion5 x y = max x y
+funcion6 a b = div a b
+funcion7 a b = mod a b
+funcion8 a = even a
+funcion9 a1 = floor a1
+funcion10 a2 a3 = gcd a2 a3
+funcion11 x = not x
+funcion12 y = odd y
+funcion13 x = succ (x + x)
+funcion14 y = signum y
+funcion15 x y = snd (x,y)
